@@ -1,18 +1,21 @@
-# opencv-instance-detection
+# OpenCV Instance Detection
+
+
+## Introduction
+
+Project for the Image Processing and Computer Vision (module 1) course at the University of Bologna (A.Y. 2023-2024).
+
 
 ## Description
 
-This is the project for the Module 1 of Image Processing and Computer Vision in Master in AI at UNIBO.
+Single and multiple instance detection in noisy images of products on shelves.
 
-## Installation
 
-## Usage
+## Notes
 
-## License
+This repository contains the project for the 1st module of the course. The project for the 2nd module can be found at [grocery-store-cnn](https://github.com/AjejeBrazorfEU/grocery-store-cnn).
 
-## Contact
 
-[Tian Cheng Xia](https://github.com/NotXia)
-[Luca Domeniconi](https://github.com/AjejeBrazorfEU)
+## Authors
 
-![meme](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGY0N3dvZ2VzYjJzZHd3dnpoY3V2bWs1enMyYnYyYzVxdWN1cDBnZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a6OnFHzHgCU1O/giphy.gif)
+[Luca Domeniconi](https://github.com/AjejeBrazorfEU) $\cdot$ [Tian Cheng Xia](https://github.com/NotXia)
